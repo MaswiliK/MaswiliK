@@ -4,6 +4,8 @@
 🌍 Open to remote opportunities
 
 > **I build backend systems that solve real business problems — inventory, payments, reporting, and automation.**
+> PaperBanana (Open Source Contributor)
+Implemented pipeline observability for an LLM-driven scientific diagram generator, adding structured timing metrics across multi-agent stages and iterative image refinement.
 
 ---
 
