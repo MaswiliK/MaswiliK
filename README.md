@@ -40,26 +40,19 @@
 ➡️ Stateful API architecture using Flask + SQLite
 
 ---
-## 🚀 Open Source Contribution
 
-### PaperBanana — LLM Research Project
+### 🧠 Open Source
 
-LLM multi-agent research pipeline for scientific diagram generation
-**Role:** Contributor
+**PaperBanana — Open Source Contributor**
+*LLM multi-agent research pipeline for scientific diagram generation*
 
-Implemented pipeline observability for an LLM-driven scientific diagram generator.
-Added structured timing metrics across multi-agent processing stages and iterative image refinement.
-
-**What this involved:**
-
-* Understanding an unfamiliar research codebase
-* Debugging pytest + async test failures
-* Resolving Flask / plugin compatibility issues
-* Ensuring lint + formatting compliance (ruff & black)
-* Passing CI across Linux, macOS, and Windows
-* Collaborating through pull requests and code review
+* Implemented **pipeline observability** by adding structured timing metrics across agent stages
+* Enabled measurement of retrieval, reasoning, and image-refinement steps
+* Contributed tests, lint fixes, and CI-compatible improvements
+* Merged into the main repository (500⭐+ project)
 
 ---
+
 ### 📚 Currently Learning
 
 `System Design` • `DevOps` • `CI/CD` • `Kubernetes`
