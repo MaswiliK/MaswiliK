@@ -1,10 +1,10 @@
 # Hi, I'm Maswili 👋
 
 **🐍 Python Backend Developer (Flask | APIs | Automation)**
+**PaperBanana (Open Source Contributor)**
 🌍 Open to remote opportunities
 
 > **I build backend systems that solve real business problems — inventory, payments, reporting, and automation.**
-> **PaperBanana (Open Source Contributor)**
 ---
 
 ### 🧰 Tech Stack
