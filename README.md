@@ -1,7 +1,6 @@
 # Hi, I'm Maswili 👋
 
-**🐍 Python Backend Developer (Flask | APIs | Automation)** \n
-**PaperBanana (Open Source Contributor)**
+**🐍 Python Backend Developer (Flask | APIs | Automation)** 
 🌍 Open to remote opportunities
 
 > **I build backend systems that solve real business problems — inventory, payments, reporting, and automation.**
@@ -45,6 +44,7 @@
 
 ### PaperBanana — LLM Research Project
 
+LLM multi-agent research pipeline for scientific diagram generation
 **Role:** Contributor
 
 Implemented pipeline observability for an LLM-driven scientific diagram generator.
