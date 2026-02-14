@@ -5,8 +5,6 @@
 
 > **I build backend systems that solve real business problems — inventory, payments, reporting, and automation.**
 > **PaperBanana (Open Source Contributor)**
-> **Implemented pipeline observability for an LLM-driven scientific diagram generator, adding structured timing metrics across multi-agent stages and iterative image refinement.**
-
 ---
 
 ### 🧰 Tech Stack
@@ -43,7 +41,25 @@
 ➡️ Stateful API architecture using Flask + SQLite
 
 ---
+## 🚀 Open Source Contribution
 
+### PaperBanana — LLM Research Project
+
+**Role:** Contributor
+
+Implemented pipeline observability for an LLM-driven scientific diagram generator.
+Added structured timing metrics across multi-agent processing stages and iterative image refinement.
+
+**What this involved:**
+
+* Understanding an unfamiliar research codebase
+* Debugging pytest + async test failures
+* Resolving Flask / plugin compatibility issues
+* Ensuring lint + formatting compliance (ruff & black)
+* Passing CI across Linux, macOS, and Windows
+* Collaborating through pull requests and code review
+
+---
 ### 📚 Currently Learning
 
 `System Design` • `DevOps` • `CI/CD` • `Kubernetes`
