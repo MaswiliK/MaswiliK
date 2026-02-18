@@ -20,24 +20,24 @@
 ![n8n](https://img.shields.io/badge/n8n-Automation-orange)
 
 ---
+## 🚀 Built With FlaskIt
 
-### 🚀 Featured Projects
+FlaskIt isn’t just a starter — it powers real applications.
 
-**💊 PharmaDesk**
-*Pharmacy POS, payments & performance reporting*
-➡️ Backend for real-world retail operations
+### 💊 PharmaDesk
 
-**🤖 Sales Bot**
-*Automates sales analytics & daily summaries*
-➡️ Turns raw sales data into actionable reports
+**Pharmacy POS, payments & performance reporting**
+Backend for real-world retail operations handling inventory, sales processing, and analytics.
 
-**🧾 Invoice System**
-*Invoice management + reporting dashboard*
-➡️ Business CRUD system with printable invoices
+### 🧾 Invoice System
 
-**🐉 Dungeon RPG API**
-*Backend-only game engine with persistent state*
-➡️ Stateful API architecture using Flask + SQLite
+**Invoice management + reporting dashboard**
+Full business CRUD system with printable invoices and financial summaries.
+
+### 🐉 Dungeon RPG API
+
+**Backend-only game engine with persistent state**
+Stateful API architecture using Flask + SQLite for game sessions and player progression.
 
 ---
 
