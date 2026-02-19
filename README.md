@@ -16,8 +16,8 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat\&logo=sqlite\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![M-Pesa](https://img.shields.io/badge/M-Pesa-%23008C44?style=for-the-badge&logo=)
-![n8n](https://img.shields.io/badge/n8n-%23FF6C37?style=for-the-badge&logo=)
+![M-Pesa](https://img.shields.io/badge/M-Pesa-%23008C44?style=for-the-badge&logo=safaricom&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 ## 🚀 Built With FlaskIt
