@@ -55,7 +55,7 @@ Stateful API architecture using Flask + SQLite for game sessions and player prog
 
 ### 📚 Currently Learning
 
-`System Design` • `DevOps` • `CI/CD` • `Kubernetes`
+`System Design` • `DevOps` • `CI/CD` • `Neural networks`• `GraphQL`
 
 ---
 
