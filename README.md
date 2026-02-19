@@ -22,7 +22,7 @@
 ---
 ## 🚀 Built With FlaskIt
 
-FlaskIt isn’t just a starter — it powers real applications.
+FlaskIt isn’t just a starter — it powers real applications. Portable backend operating system.
 
 ### 💊 PharmaDesk
 
