@@ -49,7 +49,7 @@ Stateful API architecture using Flask + SQLite for game sessions and player prog
 * Implemented **pipeline observability** by adding structured timing metrics across agent stages
 * Enabled measurement of retrieval, reasoning, and image-refinement steps
 * Contributed tests, lint fixes, and CI-compatible improvements
-* Merged into the main repository (500⭐+ project)
+* Merged into the main repository (1,000⭐+ project)
 
 ---
 
