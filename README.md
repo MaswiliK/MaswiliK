@@ -59,8 +59,9 @@ Stateful API architecture using Flask + SQLite for game sessions and player prog
 
 ---
 
-### 📫 Reach Me
+### 📬 Reach Me
 
-✉️ **Email:** [devmaswili@gmail.com](mailto:devmaswili@gmail.com)
+✉️ **Email:** [devmaswili@gmail.com](mailto:devmaswili@gmail.com)  
+🐦 **X:** [https://x.com/_mk4real](https://x.com/_mk4real)
 
 ---
