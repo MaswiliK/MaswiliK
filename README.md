@@ -5,6 +5,18 @@
 
 > **I build backend systems that solve real business problems — inventory, payments, reporting, and automation.**
 ---
+### 🚀 Current Projects
+
+| Project                         | Tech                                                                                                                                                                                                                                                                                             | Description                                                                       |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| 🎙️ **[AI Boardroom](#)**       | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white) ![Voice.AI](https://img.shields.io/badge/Voice.AI-121212?style=flat-square\&logoColor=white) ![LiveKit](https://img.shields.io/badge/LiveKit-6C63FF?style=flat-square\&logoColor=white) | Real-time voice assistant interface with browser + FastAPI backend.               |
+| 🏎️ **[Motorsport Tracker](#)** | ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) ![Tkinter](https://img.shields.io/badge/Tkinter-FF6347?style=flat-square\&logoColor=white)                                                                                                                                         | Desktop app to track F1, MotoGP, WSBK with calendar, countdowns, and filters.     |
+| 🐍 **[FlaskIt](#)**             | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white) ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)                                                                                                                                 | CLI generator for clean Flask project structure — skip boilerplate, start coding. |
+| 💊 **[PharmaDesk](#)**          | ![Flask](https://img.shields.io/badge/Flask-2.x-lightgrey) ![Python](https://img.shields.io/badge/python-3.10+-blue.svg) ![PostgreSQL](https://img.shields.io/badge/database-PostgreSQL-blue)                                                                                                    | Pharmacy management system: inventory, sales, analytics, and reporting.           |
+
+---
+
+
 
 ### 🧰 Tech Stack
 
@@ -42,26 +54,6 @@
 [![M-Pesa](https://img.shields.io/badge/M-Pesa-%23008C44?style=flat&logo=safaricom&logoColor=white)](https://www.safaricom.co.ke/personal/m-pesa)
 
 ---
-## 🚀 Built With FlaskIt
-
-FlaskIt isn’t just a starter — it powers real applications. Portable backend operating system.
-
-### 💊 PharmaDesk
-
-**Pharmacy POS, payments & performance reporting**
-Backend for real-world retail operations handling inventory, sales processing, and analytics.
-
-### 🧾 Invoice System
-
-**Invoice management + reporting dashboard**
-Full business CRUD system with printable invoices and financial summaries.
-
-### 🐉 Dungeon RPG API
-
-**Backend-only game engine with persistent state**
-Stateful API architecture using Flask + SQLite for game sessions and player progression.
-
----
 
 ### 🧠 Open Source
 
@@ -76,14 +68,18 @@ Stateful API architecture using Flask + SQLite for game sessions and player prog
 ---
 
 ### 📚 Currently Learning
-
-`System Design` • `DevOps` • `CI/CD` • `Neural networks`• `GraphQL`
+![System Design](https://img.shields.io/badge/System%20Design-007ACC?style=flat)
+![DevOps](https://img.shields.io/badge/DevOps-008080?style=flat)
+![CI/CD](https://img.shields.io/badge/CI/CD-FF69B4?style=flat)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-6F42C1?style=flat)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white)
 
 ---
 
 ### 📬 Reach Me
-
-✉️ **Email:** [devmaswili@gmail.com](mailto:devmaswili@gmail.com)  
-🐦 **X:** [https://x.com/_mk4real](https://x.com/_mk4real)
+[![gmail](https://img.shields.io/badge/devmaswili@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:devmaswili@gmail.com) 
+[![X](https://img.shields.io/badge/@_mk4real-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/_mk4real)
 
 ---
