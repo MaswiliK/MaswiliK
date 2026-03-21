@@ -33,7 +33,6 @@
 #### 🖥 Frontend & UI
 [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)](https://svelte.dev/docs?utm_source=chatgpt.com)  
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://docs.streamlit.io/?utm_source=chatgpt.com)  
-[![Flet](https://img.shields.io/badge/Flet-00BFA5?style=flat&logo=python&logoColor=white)](https://flet.dev/?utm_source=chatgpt.com)  
 [![HTMX](https://img.shields.io/badge/HTMX-FF6600?style=flat&logoColor=white)](http://htmx.org/docs/)
 
 #### 🗄 Databases & Storage
