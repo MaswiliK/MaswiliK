@@ -9,13 +9,32 @@
 
 ### 🚀 Current Projects
 
-| Project                         | Tech                                                                                                                                                                                                                                   | Description                                                                       |
-| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 🎙️ **[AI Boardroom](https://github.com/MaswiliK/ai-boardroom.git)**       | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Voice.AI](https://img.shields.io/badge/Voice.AI-121212?style=flat-square&logoColor=white) ![LiveKit](https://img.shields.io/badge/LiveKit-6C63FF?style=flat-square&logoColor=white) | Real-time voice assistant interface with browser + FastAPI backend.               |
-| 📊 **[SimLab](https://github.com/MaswiliK/simlab.git)** | ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logoColor=white) | Monte Carlo & Portfolio Risk Simulator — GBM paths, VaR/CVaR, multi-asset modeling. |
-| 🏎️ **[Motorsport Tracker](https://github.com/MaswiliK/MotorSports.git)** | ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) ![Tkinter](https://img.shields.io/badge/Tkinter-FF6347?style=flat-square&logoColor=white)                                                                                 | Desktop app to track F1, MotoGP, WSBK with calendar, countdowns, and filters.     |
-| 🐍 **[FlaskIt](https://github.com/MaswiliK/flaskit.git)**             | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)                                                                       | CLI generator for clean Flask project structure — skip boilerplate, start coding. |
-| 💊 **[PharmaDesk](https://github.com/MaswiliK/pharmadesk.git)**          | ![Flask](https://img.shields.io/badge/Flask-2.x-lightgrey) ![Python](https://img.shields.io/badge/python-3.10+-blue.svg) ![PostgreSQL](https://img.shields.io/badge/database-PostgreSQL-blue)                                         | Pharmacy management system: inventory, sales, analytics, and reporting.           |
+A focused collection of systems across **SaaS, AI, real-time infrastructure, and quantitative finance**.
+
+| Project | Tech | Description |
+|--------|------|-------------|
+| 💊 **[PharmaDesk](https://github.com/MaswiliK/pharmadesk.git)** | ![Flask](https://img.shields.io/badge/Flask-2.x-lightgrey) ![Python](https://img.shields.io/badge/python-3.10+-blue.svg) ![PostgreSQL](https://img.shields.io/badge/database-PostgreSQL-blue) | **Primary SaaS** → Pharmacy management system with inventory, sales processing, and analytics. Built for real-world deployment and revenue. |
+| 🎙️ **[AI Boardroom](https://github.com/MaswiliK/ai-boardroom.git)** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Voice.AI](https://img.shields.io/badge/Voice.AI-121212?style=flat-square&logoColor=white) ![LiveKit](https://img.shields.io/badge/LiveKit-6C63FF?style=flat-square&logoColor=white) | **AI + Real-Time** → Browser-based voice assistant with live streaming and FastAPI backend. |
+| 📊 **[SimLab](https://github.com/MaswiliK/simlab.git)** | ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logoColor=white) | **Quant Engine** → Monte Carlo simulations, GBM paths, and portfolio risk metrics (VaR/CVaR). |
+| 💊 **[Whisper](https://github.com/MaswiliK/whisper.git)** | ![Python](https://img.shields.io/badge/python-3.10+-blue.svg) ![WebSockets](https://img.shields.io/badge/WebSockets-real--time-orange) ![Encryption](https://img.shields.io/badge/Encryption-E2EE-critical) | **Secure Systems** → End-to-end encrypted real-time messaging with zero plaintext storage. |
+| 🐍 **[FlaskIt](https://github.com/MaswiliK/flaskit.git)** | ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | **Dev Tooling** → CLI to scaffold clean Flask architectures instantly. |
+| 🏎️ **[Motorsport Tracker](https://github.com/MaswiliK/MotorSports.git)** | ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) ![Tkinter](https://img.shields.io/badge/Tkinter-FF6347?style=flat-square&logoColor=white) | **Passion Project** → Desktop app for tracking F1, MotoGP & WSBK schedules and countdowns. |
+
+---
+
+## 🧠 Focus Areas
+
+- Real-time systems (WebSockets, streaming, voice)
+- SaaS development & deployment
+- Quantitative finance & simulation
+- Developer tooling
+
+---
+
+## ⚡ Philosophy
+
+> Build systems that are **useful, fast, and scalable**  
+> Focus on the 20% that drives 80% of results
 
 ---
 
