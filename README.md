@@ -56,6 +56,10 @@ A focused collection of systems across **SaaS, AI, real-time infrastructure, and
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://docs.streamlit.io/?utm_source=chatgpt.com)  
 [![HTMX](https://img.shields.io/badge/HTMX-FF6600?style=flat&logoColor=white)](http://htmx.org/docs/)
 
+### 🖥 Desktop GUIs
+[![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat&logo=qt&logoColor=white)](https://doc.qt.io/qtforpython/)  
+[![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/library/tkinter.html)  
+
 #### 🗄 Databases & Storage
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/docs.html)  
