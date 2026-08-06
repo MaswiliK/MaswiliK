@@ -9,9 +9,9 @@
 
 | Project | Tech | Description |
 |--------|------|-------------|
-| 📱 **[Memento](https://github.com/MaswiliK/memento.git)** | ![Flutter](https://img.shields.io/badge/Flutter-3.44.8-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-3.12.2-0175C2?logo=dart&logoColor=white) | **Mobile / Android** → Minimalist floating-note app with a persistent glassmorphic overlay, cross-engine synchronization, and draggable bubble interface. |
-| 🐍 **[FlaskIt](https://github.com/MaswiliK/flaskit.git)** | ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | **Dev Tooling** → CLI to scaffold clean Flask architectures instantly. |
-| 📡 **[Whisper](https://github.com/MaswiliK/whisper.git)** | ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) ![WebSockets](https://img.shields.io/badge/WebSockets-real--time-orange) ![Encryption](https://img.shields.io/badge/Encryption-E2EE-critical) | **Secure Systems** → End-to-end encrypted real-time messaging with zero plaintext storage. |
+| **[Memento](https://github.com/MaswiliK/memento.git)** | ![Flutter](https://img.shields.io/badge/Flutter-3.44.8-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-3.12.2-0175C2?logo=dart&logoColor=white) | **Mobile / Android** → Minimalist floating-note app with a persistent glassmorphic overlay, cross-engine synchronization, and draggable bubble interface. |
+| **[FlaskIt](https://github.com/MaswiliK/flaskit.git)** | ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | **Dev Tooling** → CLI to scaffold clean Flask architectures instantly. |
+| **[Whisper](https://github.com/MaswiliK/whisper.git)** | ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) ![WebSockets](https://img.shields.io/badge/WebSockets-real--time-orange) ![Encryption](https://img.shields.io/badge/Encryption-E2EE-critical) | **Secure Systems** → End-to-end encrypted real-time messaging with zero plaintext storage. |
 
 ---
 
