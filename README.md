@@ -73,7 +73,7 @@
 ---
 
 ### 📚 Currently Learning
-![System Design](https://img.shields.io/badge/System%20Design-007ACC?style=flat) ![DevOps](https://img.shields.io/badge/DevOps-008080?style=flat) ![CI/CD](https://img.shields.io/badge/CI/CD-FF69B4?style=flat) ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-6F42C1?style=flat) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-E57324?style=flat&logo=rust&logoColor=white)
 
 ---
 
