@@ -1,6 +1,6 @@
-# Hi, I'm Maswili 👋
+/̵͇̿̿/'̿'̿ ̿ ̿ ̿ ̿ ̿ ̿ ̿̿ ̿̿💥 Hi, I'm Maswili
 
-**🚀 Python Backend Developer | 📱 Flutter & Android | APIs & Automation**  
+ Python Backend Developer | 📱 Flutter & Android | APIs & Automation
 🌍 Open to remote opportunities
 
 ---
